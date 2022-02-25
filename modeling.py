@@ -1,4 +1,5 @@
 # coding=utf-8
+# Sparse-softmax: A Simpler and Faster Alternative Softmax Transformation
 """PyTorch UniLM model. """
 
 from __future__ import absolute_import
