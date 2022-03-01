@@ -1,4 +1,4 @@
-# Improvement_test_of_Softmax
+# Sparse-softmax: A Simpler and Faster Alternative Softmax Transformation
 
 データセット：
 
@@ -9,3 +9,5 @@
 3 https://archive.ics.uci.edu/ml/datasets/Reuter 
 
 4 https://global.xfyun.cn/
+
+Paper: https://arxiv.org/pdf/2112.12433.pdf
